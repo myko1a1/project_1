@@ -1,0 +1,38 @@
+h1{
+    text-align: left;
+    color: rgb(148, 148, 102);
+    text-align: center;
+    
+}
+img{
+    width: 275px;
+    height: 355px;
+
+}
+body{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+h2{
+    text-align: left;
+    color: rgb(128, 128, 87);
+    text-align: center;
+
+}
+p{
+    color: rgb(128, 128, 87);
+    text-align: center;
+
+}
+hr{
+    color: rgb(128, 128, 87);
+
+}
+.p1{
+    font-size: 45px;
+}
+a{
+    color: rgb(128, 128, 87);
+    background-color: rgb(228, 228, 191);
+    text-decoration: none;
+}
